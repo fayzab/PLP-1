@@ -19,13 +19,17 @@ https://www.programiz.com/cpp-programming
 https://code.visualstudio.com/docs/languages/cpp
 
 1. What did you need to do to install the language? 
+
 Visual Studio Code
 
 2. Does this language come with a recommended programming environment? What is it? If not, how did you pick the one that you'll be using? 
+
 Visual Studio by Microsoft
 
-3. How do you run programs in that language? 
+3. How do you run programs in that language?
+   
 I hit the run button in the top corner of the page, or I hit run, run without debugging on my laptop
 
-4. How do you write comments in your language?
+5. How do you write comments in your language?
+   
 //like this
