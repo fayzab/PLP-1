@@ -15,8 +15,11 @@ C++ is one of the most widely-used programming languages in game development was
 The following resources will support me as I start programming in C++:
 
 https://www.w3schools.com/cpp/cpp_intro.asp
+
 https://www.youtube.com/watch?v=ZzaPdXTrSb8
+
 https://www.programiz.com/cpp-programming
+
 https://code.visualstudio.com/docs/languages/cpp
 
 
