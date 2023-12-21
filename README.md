@@ -1,5 +1,6 @@
-# PLP-1
-The name of my language is C++
+# PLP-1 Lanuage Overview and Setup
+
+The name of the language I will be researching for my Programming Language Project (PLP) is C++
 
 C++ was created in 1979 by Bjarne Stroustrup at Bell Laboratories. Stroustrup created C++ as an extension of the C language in order to have a more efficient and flexible language that was close to C which also provided the same if not higher-level features for program organization.
 
