@@ -31,3 +31,5 @@ To run programs in C++ you can hit the run button in the top corner of the Visua
 
 To write comments in C++ you use two forward slashes
    //like this
+   
+Inthis section you will also find a simple "Hello World!" program in C++
