@@ -1,4 +1,4 @@
-// C++ Program
+//Simple "Hello World!" program
 
 #include <iostream>
 
